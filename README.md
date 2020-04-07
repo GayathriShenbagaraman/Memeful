@@ -1,5 +1,7 @@
 # Memeful
 App to get the meme feed from the website
+Note:
+Client Id was kept as build config variable of gradle file so if needed you can change and test.
 
 App features:
 1. Recyclerview to load the image using staggered layout manager.
@@ -40,6 +42,6 @@ Adpater pattern - For recyclerview adapter
 Singleton pattern - For web service request queue
 
 Screenshots:
-
+https://github.com/GayathriShenbagaraman/Memeful/blob/master/Screenshot_2020-04-08-00-05-09-847_com.memeful.jpg
 
 
