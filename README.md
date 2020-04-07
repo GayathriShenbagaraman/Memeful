@@ -33,8 +33,13 @@ Dependencies:
 4. Architecture components - For coding standard
 
 Architecture and design pattern used in the app:
+
 MVVM - To show the feeds
 Builder pattern - For web service calls
 Adpater pattern - For recyclerview adapter
 Singleton pattern - For web service request queue
+
+Screenshots:
+
+
 
