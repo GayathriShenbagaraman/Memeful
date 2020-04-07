@@ -42,6 +42,7 @@ Adpater pattern - For recyclerview adapter
 Singleton pattern - For web service request queue
 
 Screenshots:
-https://github.com/GayathriShenbagaraman/Memeful/blob/master/Screenshot_2020-04-08-00-05-09-847_com.memeful.jpg
+![Alt text](https://github.com/GayathriShenbagaraman/Memeful/blob/master/Screenshot_2020-04-08-00-05-09-847_com.memeful.jpg "Memeful")
+
 
 
